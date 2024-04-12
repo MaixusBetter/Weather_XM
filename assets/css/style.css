@@ -1,0 +1,37 @@
+/* Header styles */
+.header{
+    background-image: linear-gradient(to right, black , navy);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size:large
+}
+
+/* Search Button styles */
+.searchButton{
+    margin-top: 20px;
+    color: white;
+    background-color: royalblue;
+    border-style: none;
+    padding: 0% 70px 0% 70px;
+    text-align: center;
+}
+
+/* City Button styles */
+.buttonCity{    
+    padding: 0% 70px 0% 70px;
+}
+
+/* Forecast item styles */
+.forecast-item {
+    background-image: linear-gradient(to bottom , navy, black);
+    color: white;
+    border-radius: 5%;
+    padding: 10%;
+  }
+
+
+/* Removes Bullet Points */
+.listVis{
+    list-style: none;
+}

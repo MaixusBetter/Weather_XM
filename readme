@@ -1,0 +1,43 @@
+# 06 Weather Dashboard Project
+
+## Table of Contents
+
+* **Section 1**: About This Project.
+
+* **Section 2**: Getting Started.
+
+* **Section 3**: Changes Made.
+
+### Section 1: About This Project
+
+Challenge 6, is about making a website that can pull data from the openweather API, and get current weather aswell as a 5 day forecast.
+
+### Section 2: Getting Started
+
+To make this project work we must use the API to access the forecast for the following 5 days including today.
+
+**How was it done:**
+
+Adding API Through CDN:
+
+THe API was added by including the URLs specified by the API's official website, and then read fromusing fetch.
+
+
+### Section 3:Changes Made
+
+Changes made by order of deployment:
+
+>Basic Functionality was added, and debugged (04/9/2024)
+
+>Basic elements of CSS and bootstrap implemented. (04/10/2024)
+
+>Submitted and final CSS and bootstrap adjustments. (04/11/2024)
+
+
+
+>Final Results
+
+![1](/assets/images/Screenshot%202024-04-11%20224327.png)
+---
+© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+- Xavier Mendoza 2024
